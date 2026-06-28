@@ -1,4 +1,4 @@
-# Primer Design and In Silico Validation – Neurological Disease-Related Genes
+# Primer Design and In Silico Validation - Neurological Disease-Related Genes
 
 ## About the Project
 
